@@ -1,2 +1,8 @@
-# docker_bot
-Simple bot for Docker automation
+# Docker Bot
+
+Simple bot for [Docker](https://www.docker.com) automation.
+
+## Configuration
+
+* `DOCKER_KEY` (`str`) - Secret key that should be passed in protected calls so that the server side
+"trusts" the client side (authentication) (defaults to `None`)
