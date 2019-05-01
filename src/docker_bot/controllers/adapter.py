@@ -52,7 +52,7 @@ class AdapterController(appier.Controller):
         if not expected: return
         if key == expected: return
         raise appier.SecurityError(
-            message = "Mismatch docker key"
+            message = "Mismatch Docker key"
         )
 
     def get_api(self):
