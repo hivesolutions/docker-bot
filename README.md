@@ -1,6 +1,6 @@
 # Docker Bot
 
-Simple bot for [Docker](https://www.docker.com) automation.
+Simple bot for [Docker](https://docker.com) automation.
 
 ## Configuration
 
