@@ -44,7 +44,7 @@ from . import adapter
 class ContainerController(adapter.AdapterController):
 
     @appier.route("/containers", "GET")
-    def list(self, id):
+    def list(self):
         self.ensure_key()
         api = self.get_api()
         containers = api.list_containers()
