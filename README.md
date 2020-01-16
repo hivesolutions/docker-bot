@@ -1,6 +1,6 @@
 # Docker Bot
 
-Simple bot for [Docker](https://docker.com) automation.
+Simple bot for [Docker](https://docker.com) automation, that makes used of the [Docker API](http://docker-api.hive.pt) project.
 
 ## Configuration
 
