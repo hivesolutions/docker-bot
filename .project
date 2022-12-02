@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>docker_bot</name>
+	<name>docker-bot</name>
 	<comment></comment>
 	<projects>
 		<project>docker_api</project>

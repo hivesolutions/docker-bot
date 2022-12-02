@@ -44,7 +44,7 @@ class DockerBotApp(appier.APIApp):
     def __init__(self, *args, **kwargs):
         appier.APIApp.__init__(
             self,
-            name = "docker_bot",
+            name = "docker-bot",
             *args, **kwargs
         )
 
