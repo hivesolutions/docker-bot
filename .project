@@ -3,7 +3,7 @@
 	<name>docker-bot</name>
 	<comment></comment>
 	<projects>
-		<project>docker_api</project>
+		<project>docker-api</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
